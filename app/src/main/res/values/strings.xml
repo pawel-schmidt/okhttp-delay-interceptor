@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">OkDelay</string>
+    <string name="app_name">OkDelay Example</string>
+    <string name="activity_main_seek_bar_value_fmt">Delayed %1$.1f seconds</string>
+    <string name="activity_main_seek_request_time_fmt">Request took %1$d ms</string>
+    <string name="activity_main_error_fmt">An error occurred\n%1$s</string>
+    <string name="activity_main_search_query">Type search query here…</string>
+    <string name="activity_main_button_label">Call request</string>
 </resources>
