@@ -45,6 +45,10 @@ simpleDelayProvider.setDelay(5L, TimeUnit.SECONDS);
 ./gradlew build
 ```
 
+## Contribution
+
+Feel free to contribute!
+
 ## License
 
     Copyright 2016 Paweł Schmidt
