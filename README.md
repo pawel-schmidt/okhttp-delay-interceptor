@@ -14,10 +14,10 @@ repositories {
 dependencies {
 
     // snapshot version
-    compile 'com.github.pawel-schmidt/okhttp-delay-interceptor:master-SNAPSHOT'
+    compile 'com.github.pawel-schmidt:okhttp-delay-interceptor:master-SNAPSHOT'
 
     // or use specific version
-    compile 'com.github.pawel-schmidt/okhttp-delay-interceptor:0.0.1'
+    compile 'com.github.pawel-schmidt:okhttp-delay-interceptor:0.0.1'
 }
 ```
 
